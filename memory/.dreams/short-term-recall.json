@@ -1,0 +1,399 @@
+{
+  "version": 1,
+  "updatedAt": "2026-04-28T02:36:15.532Z",
+  "entries": {
+    "memory:memory/2026-03-20.md:1:11": {
+      "key": "memory:memory/2026-03-20.md:1:11",
+      "path": "memory/2026-03-20.md",
+      "startLine": 1,
+      "endLine": 11,
+      "source": "memory",
+      "snippet": "# 2026-03-20 日报 今日心跳检查： - 安全检查：未发现注入风险 - 日志检查：无错误警告 - 创建了 proactive-ideas.md 记录主动改进想法 - RSS推送配置正常，等待触发 ## 今日事项 -",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-04-14T03:16:19.078Z",
+      "lastRecalledAt": "2026-04-14T03:16:19.078Z",
+      "queryHashes": [
+        "a419d9ecb9bb"
+      ],
+      "recallDays": [
+        "2026-04-14"
+      ],
+      "conceptTags": [
+        "proactive-ideas.md",
+        "日报",
+        "今日",
+        "心跳",
+        "检查",
+        "安全",
+        "发现",
+        "注入"
+      ]
+    },
+    "memory:memory/2026-04-14.md:1:9": {
+      "key": "memory:memory/2026-04-14.md:1:9",
+      "path": "memory/2026-04-14.md",
+      "startLine": 1,
+      "endLine": 9,
+      "source": "memory",
+      "snippet": "# 2026-04-14 ## 今日对话 - 09:38 用户确认保持RSS推送配置不变，当前每天09:00自动推送运行正常 ## 待办 - 持续监控运行状态",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-04-14T10:00:05.593Z",
+      "lastRecalledAt": "2026-04-15T01:08:44.341Z",
+      "queryHashes": [
+        "08642979acbc",
+        "486069e2276f"
+      ],
+      "recallDays": [
+        "2026-04-14",
+        "2026-04-15"
+      ],
+      "conceptTags": [
+        "今日",
+        "对话",
+        "用户",
+        "确认",
+        "保持",
+        "rss",
+        "推送",
+        "配置"
+      ]
+    },
+    "memory:memory/2026-03-23.md:1:15": {
+      "key": "memory:memory/2026-03-23.md:1:15",
+      "path": "memory/2026-03-23.md",
+      "startLine": 1,
+      "endLine": 15,
+      "source": "memory",
+      "snippet": "# 2026-03-23 日报 ## 今日工作 ### RSS AI 资讯推送 - **问题**：之前依赖心跳触发，很久没有推送 - **动作**：添加 OpenClaw cron 定时任务，每天 09:00 自动推送 - **任务ID**：`57d80efb-b640-4524-9144-68abae48bf1c` - **状态**：✅ 已配置，手动测试已入队 ## 决策 - 改用 OpenClaw 内置 cron 调度，比心跳更可靠稳定 - 保持每天一次推送频率，不过度打扰",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-04-16T03:26:46.534Z",
+      "lastRecalledAt": "2026-04-16T03:26:46.534Z",
+      "queryHashes": [
+        "35e4e15119de"
+      ],
+      "recallDays": [
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "日报",
+        "今日",
+        "工作",
+        "rss",
+        "资讯",
+        "推送",
+        "问题",
+        "之前"
+      ]
+    },
+    "memory:memory/2026-03-12.md:35:82": {
+      "key": "memory:memory/2026-03-12.md:35:82",
+      "path": "memory/2026-03-12.md",
+      "startLine": 35,
+      "endLine": 82,
+      "source": "memory",
+      "snippet": "PM 验收 → UI/UX 效果验收 → Tester 测试 → 发布交付 ``` ### 下班提醒任务 - **触发条件**: 工作日（1-5），接近 6 点（17:30-18:05） - **执行频率**: 每小时检查一次 - **提醒方式**: 通过 HEARTBEAT.md + OpenClaw 心跳机制自动触发 **HEARTBEAT.md 配置位置**: ``` /Users/weihefei/Documents/openclaw/workspace/HEARTBEAT.md ``` --- ## 本地项目文件 ### Workspace 项目 ``` /Users/weihefei/Documents/openclaw/workspace/ ├── scene_1.txt, scene_2.txt, scene_3.txt # 短剧分镜脚本 ├── video_generator.py # 视频生成脚本 └── 分镜脚本.txt, 即梦_prompt.txt # AI 绘图提示词 ``` ### DBOMS 项目（外部） ``` /Users/weihefei/Documents/vite-app/dboms.vue/.lingma/skills/ ├── project-manager/SKILL.md # 项目经理规范（已同步） ├── developer/SKILL.md # 程序员规范 ├── tester/SKILL.md",
+      "recallCount": 4,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 4,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-04-16T03:26:46.534Z",
+      "lastRecalledAt": "2026-04-16T08:54:14.077Z",
+      "queryHashes": [
+        "35e4e15119de",
+        "4ea5f70a3079",
+        "f5b82b1f6267",
+        "39adf93e3d9e"
+      ],
+      "recallDays": [
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "ui/ux",
+        "1-5",
+        "30-18",
+        "heartbeat.md",
+        "scene-1.txt",
+        "scene-2.txt",
+        "scene-3.txt",
+        "video-generator.py"
+      ]
+    },
+    "memory:memory/2026-04-13.md:1:24": {
+      "key": "memory:memory/2026-04-13.md:1:24",
+      "path": "memory/2026-04-13.md",
+      "startLine": 1,
+      "endLine": 24,
+      "source": "memory",
+      "snippet": "# 2026-04-13 日记 ## 今日事项 - **Gateway服务修复**：之前LaunchAgent未加载，重新安装并启动Gateway，现在服务运行正常 - **openclaw-tui连接成功**：确认已经建立ESTABLISHED连接 - **版本检查更新**：当前已是最新版本 2026.3.13 (61d171a)，git pull显示Already up to date ## 定时任务状态 - `rss-daily-news`: ✅ ok，上次运行2小时前正常 - `daily-eod-reflection`: ⚠️ error，预计今天18:00运行 ## 安全检查 - 未发现注入攻击 - 核心指令未变 - 行为完整 ## 错误日志 - 无严重错误，只有一些工具allowlist警告，不影响使用",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 3,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-04-16T03:26:46.534Z",
+      "lastRecalledAt": "2026-04-27T10:02:30.185Z",
+      "queryHashes": [
+        "35e4e15119de",
+        "af646c4c6aee",
+        "790071c50674"
+      ],
+      "recallDays": [
+        "2026-04-16",
+        "2026-04-17",
+        "2026-04-27"
+      ],
+      "conceptTags": [
+        "gateway",
+        "openclaw-tui连接成功",
+        "2026.3.13",
+        "rss-daily-news",
+        "daily-eod-reflection",
+        "日记",
+        "今日",
+        "事项"
+      ]
+    },
+    "memory:memory/2026-03-12.md:1:43": {
+      "key": "memory:memory/2026-03-12.md:1:43",
+      "path": "memory/2026-03-12.md",
+      "startLine": 1,
+      "endLine": 43,
+      "source": "memory",
+      "snippet": "# 📝 2026-03-12 - 重要配置记录 ## 创建时间：2026-03-12 17:57 --- ## 小虾开发团队已配置完成 ✅ ### 团队组成 基于 DBOMS 项目规范创建的完整 AI 开发团队，包含 **4 个核心角色**： | 角色 | 技能名 | 职责概述 | |------|--------|----------| | 项目经理 (PM) | `project-manager` | 需求分析、任务拆分、验收审查 | | 程序员 (Dev) | `developer` | 代码开发、规范遵循、单元测试 | | 测试员 (Tester) | `tester` | 编写用例、执行测试、缺陷管理 | | UI/UX设计师 | `ui_ux_designer` | 界面设计、交互流程、原型设计 | ### 团队配置文件位置 ``` /Users/weihefei/Documents/openclaw/workspace/ ├── project_manager.md # 项目经理技能规范 ├── developer/SKILL.md # 程序员技能规范 ├── tester/SKILL.md # 测试员技能规范 └── ui_ux_designer.md # UI/UX设计师技能规范 ``` ### 核心工作流 ``` 用户提出需求 → PM 分析拆分 → 设计稿确认 → Dev 开发自测 ↓ ↓ ↓",
+      "recallCount": 4,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 4,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-04-16T03:26:46.534Z",
+      "lastRecalledAt": "2026-04-16T08:54:14.077Z",
+      "queryHashes": [
+        "35e4e15119de",
+        "4ea5f70a3079",
+        "f5b82b1f6267",
+        "39adf93e3d9e"
+      ],
+      "recallDays": [
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "project-manager",
+        "ui/ux设计师",
+        "ui-ux-designer",
+        "project-manager.md",
+        "developer/skill.md",
+        "tester/skill.md",
+        "ui-ux-designer.md",
+        "ui/ux设计师技能规范"
+      ]
+    },
+    "memory:memory/2026-04-09.md:22:48": {
+      "key": "memory:memory/2026-04-09.md:22:48",
+      "path": "memory/2026-04-09.md",
+      "startLine": 22,
+      "endLine": 48,
+      "source": "memory",
+      "snippet": "- 手机厂商继续在电池容量上竞争，大电池仍是用户核心需求 **趋势**: 旗舰手机电池容量不断突破，从6000mAh向8000mAh迈进，满足用户重度使用需求。 --- ### 开源 / 外设 **[Keychron公开外设硬件设计，允许个人和非商业用途使用]** - **知识要点**: - Keychron渴创选择公开自家外设的硬件设计文件 - 允许个人和非商业用途自由使用 - 这种开放模式有利于外设社区发展，用户可以自行改造定制 - 体现了硬件开源的趋势，拉近品牌和极客用户的距离 **趋势**: 越来越多外设品牌向社区开放设计，培养生态，提高用户粘性和品牌忠诚度。 ## 改进点提炼 1. **RSS推送稳定性明显提升** - 经过前几次超时错误后，最近两次RSS推送都成功完成，没有出现解构错误 - 说明飞书token问题更多是超时引发的连锁反应，不是逻辑错误，偶发不影响整体 - 后续仍需持续监控，但当前状态已经可用 2. **知识提取流程仍需自动化** - 今天的知识提取还是EOD总结时手动完成的 - RSS推送完成后没有自动触发知识提取，流程还没闭环",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-04-16T06:06:24.544Z",
+      "lastRecalledAt": "2026-04-16T06:06:24.544Z",
+      "queryHashes": [
+        "7dd32960f6c5"
+      ],
+      "recallDays": [
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "手机",
+        "厂商",
+        "继续",
+        "电池",
+        "容量",
+        "竞争",
+        "仍是",
+        "用户"
+      ]
+    },
+    "memory:memory/2026-04-09.md:1:31": {
+      "key": "memory:memory/2026-04-09.md:1:31",
+      "path": "memory/2026-04-09.md",
+      "startLine": 1,
+      "endLine": 31,
+      "source": "memory",
+      "snippet": "# 2026-04-09 工作日志 今日活动： - **RSS每日推送**：今天9:30正常触发，成功抓取处理2篇新文章 1. IT之家 - 《消息称某厂 2nm 大屏迭代旗舰配备超 8000mAh 电池，预计为小米 18 系列》 2. IT之家 - 《Keychron 渴创公开外设硬件设计，允许个人和非商业用途使用》 - 飞书推送成功 ✅ 状态ok，没有解构错误 - 连续两次成功推送，之前的超时错误问题已经缓解 - **用户对话**：今日老板没有新交互，系统保持正常待命状态 - **EOD总结定时任务**：今日18:00正常触发执行 ✅ ## 今日新闻知识提取 按照规则，提取今天推送新闻的知识要点： ### 科技 / 硬件 **[消息称小米18系列配备超8000mAh大屏电池]** - **知识要点**: - 小米下一代旗舰小米18系列预计配备超过8000mAh的大容量电池 - 采用2nm工艺迭代，定位大屏旗舰机型 - 手机厂商继续在电池容量上竞争，大电池仍是用户核心需求 **趋势**: 旗舰手机电池容量不断突破，从6000mAh向8000mAh迈进，满足用户重度使用需求。 --- ### 开源 / 外设 **[Keychron公开外设硬件设计，允许个人和非商业用途使用]** - **知识要点**:",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-04-16T06:06:24.544Z",
+      "lastRecalledAt": "2026-04-16T06:06:24.544Z",
+      "queryHashes": [
+        "7dd32960f6c5"
+      ],
+      "recallDays": [
+        "2026-04-16"
+      ],
+      "conceptTags": [
+        "工作",
+        "日志",
+        "今日",
+        "活动",
+        "rss",
+        "每日",
+        "推送",
+        "今天"
+      ]
+    },
+    "memory:memory/2026-03-24.md:1:22": {
+      "key": "memory:memory/2026-03-24.md:1:22",
+      "path": "memory/2026-03-24.md",
+      "startLine": 1,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "# 2026-03-24 日报 ## 今日工作 ### RSS AI 资讯推送 - **任务**：每日定时执行RSS抓取、摘要生成和推送 - **状态**：✅ 已成功执行，推送到飞书频道 - **知识提取**：已自动完成，存入 `.learnings/DAILY-NEWS-KNOWLEDGE.md` ### 每日下班总结 - **任务**：今日新增EOD总结cron任务首次运行 - **动作**：按AGENTS.md要求，回顾今日对话，提炼改进点存入 `.learnings/DAILY-REFLECTION.md` ## 今日对话 今日用户未发起新对话，主要为cron任务自动运行。 ## 决策 保持现有配置，继续每日自动化流程： - 09:30 推送RSS新闻 - 18:00 执行EOD总结",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 3,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-04-17T10:00:15.651Z",
+      "lastRecalledAt": "2026-04-28T02:36:15.532Z",
+      "queryHashes": [
+        "af646c4c6aee",
+        "790071c50674",
+        "9a9ab88b71b1"
+      ],
+      "recallDays": [
+        "2026-04-17",
+        "2026-04-27",
+        "2026-04-28"
+      ],
+      "conceptTags": [
+        "按agents.md要求",
+        "learnings/daily-reflection.md",
+        "日报",
+        "今日",
+        "工作",
+        "rss",
+        "资讯",
+        "推送"
+      ]
+    },
+    "memory:memory/2026-03-27.md:1:26": {
+      "key": "memory:memory/2026-03-27.md:1:26",
+      "path": "memory/2026-03-27.md",
+      "startLine": 1,
+      "endLine": 26,
+      "source": "memory",
+      "snippet": "# 2026-03-27 日报 ## 今日工作 ### RSS AI 资讯推送 - **任务**：每日定时执行RSS抓取、摘要生成和推送 - **状态**：✅ 已成功执行，推送到飞书频道（9:30准时触发） - **知识提取**：自动提取完成，存入 `.learnings/DAILY-NEWS-KNOWLEDGE.md` ### 每日下班总结 - **任务**：回顾今日对话，提炼改进点存入 `.learnings/DAILY-REFLECTION.md` - **状态**：✅ 正在执行 ## 今日对话 今日老板未发起新对话，系统保持正常待命，两个cron任务都稳定运行。 ## 系统状态 - RSS每日推送：稳定运行 ✅ - EOD每日总结：稳定运行 ✅ - 无报错，无异常 ## 决策 保持现有配置，继续每日自动化流程： - 09:30 推送RSS新闻 - 18:00 执行EOD总结",
+      "recallCount": 3,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 3,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-04-17T10:00:15.651Z",
+      "lastRecalledAt": "2026-04-28T02:36:15.532Z",
+      "queryHashes": [
+        "af646c4c6aee",
+        "790071c50674",
+        "9a9ab88b71b1"
+      ],
+      "recallDays": [
+        "2026-04-17",
+        "2026-04-27",
+        "2026-04-28"
+      ],
+      "conceptTags": [
+        "learnings/daily-reflection.md",
+        "日报",
+        "今日",
+        "工作",
+        "rss",
+        "资讯",
+        "推送",
+        "任务"
+      ]
+    },
+    "memory:memory/2026-03-19.md:1:22": {
+      "key": "memory:memory/2026-03-19.md:1:22",
+      "path": "memory/2026-03-19.md",
+      "startLine": 1,
+      "endLine": 22,
+      "source": "memory",
+      "snippet": "# 2026-03-19 心跳日志 ## RSS AI 资讯推送运行检查 **时间**: 09:35 Asia/Shanghai ### 问题发现 1. `python` 命令找不到，但系统有 `python3` → 这就是为什么之前执行失败（code 127） 2. **飞书推送失败**: 代理连接错误，无法连接到 `open.feishu.cn` 3. **LLM 调用失败**: 同样连接错误，网络/代理问题 ### 运行结果 - RSS 抓取正常：成功获取 130 篇文章，过滤出 2 篇新文章 - 数据库去重正常：累计 7 篇记录 - 第一篇一处理完成但推送失败，第二篇摘要生成失败 ### 需要修复 - 检查网络代理配置 - 确认飞书 webhook 可访问性 - 确认 LLM API 可访问性",
+      "recallCount": 2,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 2,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-04-22T04:31:25.638Z",
+      "lastRecalledAt": "2026-04-22T04:32:56.395Z",
+      "queryHashes": [
+        "dcedab6882f6",
+        "0442d7d3b66f"
+      ],
+      "recallDays": [
+        "2026-04-22"
+      ],
+      "conceptTags": [
+        "网络",
+        "asia/shanghai",
+        "open.feishu.cn",
+        "网络/代理问题",
+        "心跳",
+        "日志",
+        "rss",
+        "资讯"
+      ]
+    },
+    "memory:memory/2026-04-27.md:1:33": {
+      "key": "memory:memory/2026-04-27.md:1:33",
+      "path": "memory/2026-04-27.md",
+      "startLine": 1,
+      "endLine": 33,
+      "source": "memory",
+      "snippet": "# 2026-04-27 日报 ## 今日工作 ### RSS AI 资讯推送 - **任务**：每日定时执行RSS抓取、摘要生成和推送 - **状态**：⚠️ 失败 - 火山方舟 Ark API 模型未开放（`doubao-seed-1-6-251015` 返回 ModelNotOpen） - **处理**：手动抓取IT之家RSS，用自身能力生成摘要，成功推送飞书 - **问题根因**：火山方舟 API 账户订阅过期或模型未激活 - **待办**：老板需登录 https://console.volcengine.com/ark 续费/激活模型 ### 每日下班总结 - **任务**：执行 EOD 总结 cron - **状态**：✅ 正常触发 ## 今日对话 - 老板无主动对话，今日仅为 cron 自动任务执行 ## 系统状态 - Gateway：✅ 正常运行 - RSS 推送：❌ API 问题，需老板介入 - EOD 总结：✅ 正常运行 ## 待解决问题 1. **RSS 推送 API 故障**（长期未解决） - 火山方舟 Ark API 模型订阅问题 - 老板需登录控制台处理 2. **无用户对话日**（连续多日） - 需考虑如何增加主动互动 ## 决策 - 继续等待老板处理火山方舟账户问题",
+      "recallCount": 1,
+      "dailyCount": 0,
+      "groundedCount": 0,
+      "totalScore": 1,
+      "maxScore": 1,
+      "firstRecalledAt": "2026-04-28T02:36:15.532Z",
+      "lastRecalledAt": "2026-04-28T02:36:15.532Z",
+      "queryHashes": [
+        "9a9ab88b71b1"
+      ],
+      "recallDays": [
+        "2026-04-28"
+      ],
+      "conceptTags": [
+        "gateway",
+        "doubao-seed-1-6-251015",
+        "console.volcengine.com/ark",
+        "续费/激活模型",
+        "日报",
+        "今日",
+        "工作",
+        "rss"
+      ]
+    }
+  }
+}

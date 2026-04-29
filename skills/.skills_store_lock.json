@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "skills": {
+    "self-improving-agent": {
+      "name": "self-improving-agent",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=self-improving-agent",
+      "source": "skillhub",
+      "version": "1.0.11"
+    },
+    "proactive-agent": {
+      "name": "Proactive Agent",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=proactive-agent",
+      "source": "skillhub",
+      "version": "3.1.0"
+    },
+    "rss-ai-reader": {
+      "name": "Rss Ai Reader",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=rss-ai-reader",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "inkos": {
+      "name": "InkOS",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=inkos",
+      "source": "skillhub",
+      "version": "1.3.0"
+    },
+    "agent-memory": {
+      "name": "Agent Memory",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=agent-memory",
+      "source": "skillhub",
+      "version": "1.0.0"
+    },
+    "byterover": {
+      "name": "ByteRover",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=byterover",
+      "source": "skillhub",
+      "version": "1.2.2"
+    },
+    "playwright": {
+      "name": "Playwright (Automation + MCP + Scraper)",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=playwright",
+      "source": "skillhub",
+      "version": "1.0.3"
+    }
+  }
+}

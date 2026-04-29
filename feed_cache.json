@@ -1,0 +1,49 @@
+{
+  "https://www.ithome.com/rss/": {
+    "modified": "Wed, 15 Apr 2026 01:28:17 GMT"
+  },
+  "https://36kr.com/rss": {},
+  "https://www.jiqizhixin.com/rss": {
+    "etag": "W/\"f30f66dc864085f3e05916fff11f3a17\""
+  },
+  "https://www.qbitai.com/feed": {},
+  "https://tech.meituan.com/feed": {
+    "etag": "\"e04fe9203ca6db46056270cfe9452ca0\"",
+    "modified": "Wed, 08 Apr 2026 01:49:36 GMT"
+  },
+  "https://www.infoq.cn/feed": {},
+  "http://sports.163.com/special/00051K7F/rss_sportslq.xml": {
+    "modified": "Wed, 24 Jun 2020 08:46:00 GMT"
+  },
+  "http://news.baidu.com/n?cmd=1&class=cba&tn=rss&sub=0": {},
+  "http://www.cctv.com/program/rss/02/03/index.xml": {
+    "etag": "W/\"46305a79-31f7\"",
+    "modified": "Thu, 26 Apr 2007 07:53:29 GMT"
+  },
+  "http://ent.163.com/special/00031K7Q/rss_toutiao.xml": {
+    "modified": "Thu, 25 Jun 2020 01:14:27 GMT"
+  },
+  "http://news.baidu.com/n?cmd=1&class=enternews&tn=rss&sub=0": {},
+  "https://ent.ifeng.com/rss/": {},
+  "https://www.chinanews.com.cn/rss/china.xml": {
+    "etag": "\"69dee9e9-396b\"",
+    "modified": "Wed, 15 Apr 2026 01:29:13 GMT"
+  },
+  "http://www.people.com.cn/rss/politics.xml": {
+    "etag": "W/\"6841928a-5d4fa\"",
+    "modified": "Thu, 05 Jun 2025 12:50:18 GMT"
+  },
+  "http://www.cctv.com/program/rss/02/01/index.xml": {
+    "etag": "W/\"f6671f924d65592e7a31c0d3ce14a9fa\"",
+    "modified": "Mon, 20 Nov 2023 13:38:34 GMT"
+  },
+  "http://www.cnr.cn/newscenter/gnxw/index_504031106.xml": {},
+  "https://www.cls.cn/rss": {},
+  "https://www.eastmoney.com/rss": {
+    "etag": "\"30a2bbc1ddc1:0\"",
+    "modified": "Fri, 15 Aug 2025 08:51:03 GMT"
+  },
+  "https://finance.ifeng.com/rss/": {
+    "modified": "Wed, 15 Apr 2026 01:30:54 GMT"
+  }
+}

@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "6fa82c7eee9d3b85",
+    "type": "split",
+    "children": [
+      {
+        "id": "9bd78fb72fe431d4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "477c71a032cbeeaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xinyan-lawyer/docs/03_故事大纲.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03_故事大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "85d26978feead965",
+    "type": "split",
+    "children": [
+      {
+        "id": "1b9182dfeed6e9f3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ce13b9d514f0f57",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "098e870028474220",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "9afb3c71c80ca8e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9e507b937ebf103",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e163735ea620b95",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67bcf1e8296bb189",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "xinyan-lawyer/docs/03_故事大纲.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "03_故事大纲 的反向链接列表"
+            }
+          },
+          {
+            "id": "7e6e31a4a0057dc3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "xinyan-lawyer/docs/03_故事大纲.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "03_故事大纲 的出链列表"
+            }
+          },
+          {
+            "id": "79f6bbbd3afdbb0c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "75ab17d2e884b6c7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "4870df2735bece9d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "xinyan-lawyer/docs/03_故事大纲.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "03_故事大纲 的大纲"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "477c71a032cbeeaf",
+  "lastOpenFiles": [
+    "xinyan-lawyer/chapters/第18章_四少登场.md",
+    "xinyan-lawyer/docs/01_世界观设定.md",
+    "xinyan-lawyer/chapters/第01章_黑夜中的光.md",
+    "未命名 2.canvas",
+    "未命名 1.canvas",
+    "未命名.canvas",
+    "未命名 1.base",
+    "未命名.base"
+  ]
+}
